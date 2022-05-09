@@ -1,8 +1,7 @@
 /**
  * This class represents a person with a first name, last name and an year of birth.
  */
-class Person 
-{
+class Person {
   private String firstName;
   private String lastName;
   private int yearOfBirth;
